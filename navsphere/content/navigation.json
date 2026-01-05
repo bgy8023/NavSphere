@@ -1552,6 +1552,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1767610285971",
+      "title": "每天必备",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
