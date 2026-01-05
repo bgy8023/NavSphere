@@ -35,6 +35,15 @@
       "subCategories": []
     },
     {
+      "id": "1767624693642",
+      "title": "影视",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -651,15 +660,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1767624693642",
-      "title": "影视",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
