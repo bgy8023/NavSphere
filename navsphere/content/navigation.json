@@ -48,6 +48,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1767650318603_8befbx2r4",
+          "title": "电子书最新地址",
+          "href": "https://book.clouds.pp.ua/",
+          "description": "获取Z-library（Zlibrary）最新地址、镜像站点、客户端下载，支持多语言，安全稳定，全球和中国均可访问。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=book.clouds.pp.ua",
+          "enabled": true
         }
       ],
       "subCategories": []
