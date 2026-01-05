@@ -56,6 +56,14 @@
           "description": "获取Z-library（Zlibrary）最新地址、镜像站点、客户端下载，支持多语言，安全稳定，全球和中国均可访问。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=book.clouds.pp.ua",
           "enabled": true
+        },
+        {
+          "id": "site_1767650525473_d25oj5i5h",
+          "title": "4KMP - 免费在线观看4K UHD超高清电影、电视剧",
+          "href": "https://4kmp.com/",
+          "description": "免注册免下载免费在线看真正高清电影、电视剧。特别推荐使用苹果设备观看，直接支持4K HDR UHD质量的分辨率。",
+          "icon": "/assets/favicon_1767650517891.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
