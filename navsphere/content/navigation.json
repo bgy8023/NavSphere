@@ -1045,6 +1045,14 @@
           "description": "NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！ - tianyaxiang/NavSphere",
           "icon": "/assets/favicon_1767621129051.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767621186921_ybe3fxcca",
+          "title": "GitHub - EdNovas/dongguaTV",
+          "href": "https://github.com/EdNovas/dongguaTV",
+          "description": "Contribute to EdNovas/dongguaTV development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1767621178270.png",
+          "enabled": true
         }
       ],
       "subCategories": []
