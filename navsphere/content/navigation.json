@@ -22,6 +22,14 @@
           "description": "IT之家，青岛软媒旗下的前沿科技门户网站。快速播报科技行业新闻头条快讯和手机数码产品评测，关注智能车电动车、AR/VR虚拟现实、苹果iOS/iPadOS、鸿蒙OS、谷歌Android、微软Win11/Win10/Win7，紧盯iPhone/iPad、安卓智能设备手机等数码潮流。",
           "icon": "/assets/favicon_1767611435088.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767620494453_2rjv4riuw",
+          "title": "52pojie",
+          "href": "https://www.52pojie.cn/",
+          "description": "访问 www.52pojie.cn",
+          "icon": "/assets/favicon_1767620483352.png",
+          "enabled": true
         }
       ],
       "subCategories": []
