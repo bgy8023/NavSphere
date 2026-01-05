@@ -652,6 +652,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1767624693642",
+      "title": "影视",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
