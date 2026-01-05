@@ -14,6 +14,14 @@
           "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
           "icon": "/assets/favicon_1767610575970.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767611442078_cdgbg9r7j",
+          "title": "IT之家",
+          "href": "https://www.ithome.com/",
+          "description": "IT之家，青岛软媒旗下的前沿科技门户网站。快速播报科技行业新闻头条快讯和手机数码产品评测，关注智能车电动车、AR/VR虚拟现实、苹果iOS/iPadOS、鸿蒙OS、谷歌Android、微软Win11/Win10/Win7，紧盯iPhone/iPad、安卓智能设备手机等数码潮流。",
+          "icon": "/assets/favicon_1767611435088.png",
+          "enabled": true
         }
       ],
       "subCategories": []
