@@ -40,7 +40,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1767625935156_tnz6tcp5u",
+          "title": "私用",
+          "href": "zwy.mars1024.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
