@@ -524,23 +524,6 @@
           ]
         },
         {
-          "id": "5820a691-8aa4-4479-a90f-3789744d944a",
-          "title": "知识库",
-          "icon": "Code",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760507310883",
-              "title": "Free for Developers",
-              "href": "https://free-for.dev/#/",
-              "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
-              "icon": "/assets/favicon_1760507315276.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "baf3db58-404b-4385-80cb-c2ddcf5747fc",
           "title": "经验技巧",
           "icon": "Files",
