@@ -342,39 +342,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
-          "title": "付费订阅托管平台",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759044488616",
-              "title": "wordpress",
-              "href": "https://wordpress.org/",
-              "description": "Open source software which you can use to easily create a beautiful website, blog, or app.",
-              "icon": "/assets/favicon_1759044512474.webp",
-              "enabled": true
-            },
-            {
-              "id": "1759044534148",
-              "title": "listmonk",
-              "href": "https://listmonk.app/",
-              "description": " Free and open source self-hosted newsletter, mailing list manager, and transactional mails",
-              "icon": "/assets/favicon_1759044556303.webp",
-              "enabled": true
-            },
-            {
-              "id": "1759044578679",
-              "title": "Ghost",
-              "href": "https://ghost.org/",
-              "description": "Beautiful, modern publishing with email newsletters and paid subscriptions built-in. Used by Platformer, 404Media, Lever News, Tangle, The Browser, and thousands more.",
-              "icon": "/assets/favicon_1759044603255.webp",
-              "enabled": true
-            }
-          ]
         }
       ]
     },
