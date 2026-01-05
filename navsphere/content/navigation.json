@@ -1,6 +1,24 @@
 {
   "navigationItems": [
     {
+      "id": "1767610285971",
+      "title": "每天必备",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1767610591191_90ul4bsvs",
+          "title": "福利吧-分享你的福利吧",
+          "href": "https://fuliba2023.net/",
+          "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
+          "icon": "/assets/favicon_1767610575970.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1390,24 +1408,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1767610285971",
-      "title": "每天必备",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1767610591191_90ul4bsvs",
-          "title": "福利吧-分享你的福利吧",
-          "href": "https://fuliba2023.net/",
-          "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
-          "icon": "/assets/favicon_1767610575970.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
