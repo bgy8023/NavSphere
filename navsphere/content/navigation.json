@@ -1037,6 +1037,14 @@
           "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) - tangly1024/NotionNext",
           "icon": "/assets/favicon_1767621026836.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767621133824_0oiffnoil",
+          "title": "GitHub - tianyaxiang/NavSphere: NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！",
+          "href": "https://github.com/tianyaxiang/NavSphere",
+          "description": "NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！ - tianyaxiang/NavSphere",
+          "icon": "/assets/favicon_1767621129051.png",
+          "enabled": true
         }
       ],
       "subCategories": []
