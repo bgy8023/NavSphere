@@ -541,47 +541,6 @@
           ]
         },
         {
-          "id": "044a42a2-b7be-4a19-bce8-1bc3fd98f052",
-          "title": "运维工具",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1761279460902",
-              "title": "宝塔",
-              "href": "https://www.bt.cn/new/index.html",
-              "description": "国内用户量很大的一家服务器运维面板",
-              "icon": "/assets/favicon_1761279490427.webp",
-              "enabled": true
-            },
-            {
-              "id": "1761279549812",
-              "title": "1panel",
-              "href": "https://1panel.cn/",
-              "description": "1Panel 提供了一个直观的 Web 界面，帮助用户轻松管理 Linux 服务器中的应用、网站、文件、数据库以及大语言模型（LLMs）等。",
-              "icon": "/assets/favicon_1761279574408.webp",
-              "enabled": true
-            },
-            {
-              "id": "1761279603255",
-              "title": "Dokploy",
-              "href": "https://dokploy.com/zh-Hans",
-              "description": "以前所未有的简洁和高效提供一站式项目、数据的管理以及系统监控。",
-              "icon": "/assets/favicon_1761279607527.svg",
-              "enabled": true
-            },
-            {
-              "id": "1761279682720",
-              "title": "Coolify",
-              "href": "https://coolify.io/",
-              "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
-              "icon": "/assets/favicon_1761279686786.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "baf3db58-404b-4385-80cb-c2ddcf5747fc",
           "title": "经验技巧",
           "icon": "Files",
