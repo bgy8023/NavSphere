@@ -43,10 +43,10 @@
       "items": [
         {
           "id": "site_1767625935156_tnz6tcp5u",
-          "title": "私用",
-          "href": "zwy.mars1024.com",
-          "description": "0902",
-          "icon": "",
+          "title": "BzTV",
+          "href": "https://sm.mars1024.com",
+          "description": "个人",
+          "icon": "/assets/favicon_1768288412009.png",
           "enabled": true
         },
         {
