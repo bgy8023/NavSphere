@@ -69,6 +69,24 @@
       "subCategories": []
     },
     {
+      "id": "1768287732513",
+      "title": "软件",
+      "icon": "Shield",
+      "description": "精选软件网站",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1768287780927_velza3nqk",
+          "title": "423down",
+          "href": "https://www.423down.com/",
+          "description": "优化破解",
+          "icon": "/assets/favicon_1768287759509.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -682,24 +700,6 @@
           "href": "https://github.com/EdNovas/dongguaTV",
           "description": "Contribute to EdNovas/dongguaTV development by creating an account on GitHub.",
           "icon": "/assets/favicon_1767621178270.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1768287732513",
-      "title": "软件",
-      "icon": "Shield",
-      "description": "精选软件网站",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1768287780927_velza3nqk",
-          "title": "423down",
-          "href": "https://www.423down.com/",
-          "description": "优化破解",
-          "icon": "/assets/favicon_1768287759509.png",
           "enabled": true
         }
       ],
