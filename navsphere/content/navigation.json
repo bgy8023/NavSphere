@@ -90,7 +90,16 @@
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1768288819697_25lmzx7ce",
+          "title": "边界AI - 智能AI对话、写作与画图生成工具的领先方案",
+          "href": "https://yyai8.com/home",
+          "description": "边界AI是一个全能型AI生成平台，提供前沿的智能AI对话、AI写作、AI画图、AI生成及AI改写技术。我们的工具聚合了多种AI生成模型，旨在优化和创新您的内容创作流程，无论是精准的文本生成、创意绘画、高效改写或先进的生成技术，边界AI都能满足您的需求。",
+          "icon": "/assets/favicon_1768288809564.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
