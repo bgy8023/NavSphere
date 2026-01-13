@@ -693,7 +693,16 @@
       "icon": "Shield",
       "description": "精选软件网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1768287780927_velza3nqk",
+          "title": "423down",
+          "href": "https://www.423down.com/",
+          "description": "优化破解",
+          "icon": "/assets/favicon_1768287759509.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
