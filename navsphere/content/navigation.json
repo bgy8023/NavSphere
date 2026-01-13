@@ -350,6 +350,14 @@
               "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
               "icon": "/assets/images/logos/vercel.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1768289994540_ojfjglusz",
+              "title": "Zeabur - Your AI DevOps Engineer",
+              "href": "https://zeabur.com/",
+              "description": "Your AI DevOps Engineer — Deploy anything to any cloud platform through the most familiar way: conversing with AI.",
+              "icon": "/assets/favicon_1768289929345.png",
+              "enabled": true
             }
           ]
         },
