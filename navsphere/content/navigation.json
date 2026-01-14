@@ -725,6 +725,14 @@
           "description": "Contribute to EdNovas/dongguaTV development by creating an account on GitHub.",
           "icon": "/assets/favicon_1767621178270.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768394082928_sbp9u9jxj",
+          "title": "Telegram群合集",
+          "href": "https://github.com/itgoyo/TelegramGroup",
+          "description": "                                                                                                              Telegram群合  集，附全网最有趣好用的机器人BOT",
+          "icon": "/assets/favicon_1768393950684.png",
+          "enabled": true
         }
       ],
       "subCategories": []
