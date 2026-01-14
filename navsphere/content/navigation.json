@@ -357,6 +357,14 @@
               "description": "Your AI DevOps Engineer — Deploy anything to any cloud platform through the most familiar way: conversing with AI.",
               "icon": "/assets/favicon_1768289929345.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768393087562_dun30lk5c",
+              "title": "最完善的 iOS Shadowrocket规则 | Shadowrocket-ADBlock-Rules-Forever",
+              "href": "https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/",
+              "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=johnshall.github.io",
+              "enabled": true
             }
           ]
         },
