@@ -403,6 +403,14 @@
           "description": "",
           "icon": "/assets/favicon_1768495174756.ico",
           "enabled": true
+        },
+        {
+          "id": "1768495337555",
+          "title": "油猴脚本论坛",
+          "href": "https://sleazyfork.org/zh-CN/scripts",
+          "description": "",
+          "icon": "/assets/favicon_1768495342700.png",
+          "enabled": true
         }
       ],
       "subCategories": []
