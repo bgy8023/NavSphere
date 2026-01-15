@@ -701,7 +701,16 @@
       "icon": "BookOpen",
       "description": "精选图库",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1768451474115_hm15z6s5y",
+          "title": "Anna’s Archive: LibGen (Library Genesis), Sci-Hub, Z-Library in one place - 安娜的档案",
+          "href": "https://zh.annas-archive.li/",
+          "description": "世界上最大的开源、开放数据图书馆。不仅是 Sci-Hub, Library Genesis, Z-Library 等站的镜像。",
+          "icon": "/assets/favicon_1768451462810.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
