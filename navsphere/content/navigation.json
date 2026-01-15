@@ -543,6 +543,14 @@
           "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=johnshall.github.io",
           "enabled": true
+        },
+        {
+          "id": "site_1768462954731_mv5lj8tb1",
+          "title": "Bilibili音乐播放器",
+          "href": "https://github.com/wood3n/biu",
+          "description": "",
+          "icon": "/assets/favicon_1768462936567.png",
+          "enabled": true
         }
       ],
       "subCategories": []
