@@ -477,6 +477,14 @@
           "description": "世界上最大的开源、开放数据图书馆。不仅是 Sci-Hub, Library Genesis, Z-Library 等站的镜像。",
           "icon": "/assets/favicon_1768451462810.png",
           "enabled": true
+        },
+        {
+          "id": "1768489432244",
+          "title": "Z-library",
+          "href": "https://book.clouds.pp.ua/",
+          "description": "最新地址",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=book.clouds.pp.ua",
+          "enabled": true
         }
       ],
       "subCategories": []
