@@ -544,6 +544,14 @@
           "description": "🌈为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类",
           "icon": "/assets/favicon_1768458944585.png",
           "enabled": true
+        },
+        {
+          "id": "1768459851732",
+          "title": "最完善的 iOS Shadowrocket规则 ",
+          "href": "https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/",
+          "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=johnshall.github.io",
+          "enabled": true
         }
       ],
       "subCategories": []
