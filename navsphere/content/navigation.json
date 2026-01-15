@@ -87,6 +87,15 @@
       "subCategories": []
     },
     {
+      "id": "1768451427621",
+      "title": "图书",
+      "icon": "BookOpen",
+      "description": "精选图库",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -735,15 +744,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1768451427621",
-      "title": "图书",
-      "icon": "BookOpen",
-      "description": "精选图库",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
