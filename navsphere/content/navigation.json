@@ -139,23 +139,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
           "title": "托管平台",
           "icon": "Book",
