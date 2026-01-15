@@ -379,7 +379,16 @@
       "icon": "Heart",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1768494789396",
+          "title": "Bypass - 分流抢票",
+          "href": "https://www.bypass.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1768494814281.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
