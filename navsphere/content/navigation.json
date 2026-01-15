@@ -131,14 +131,6 @@
               "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
               "icon": "/assets/images/logos/gemini.svg",
               "enabled": true
-            },
-            {
-              "id": "1759046285125",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-              "icon": "/assets/favicon_1759046289851.webp",
-              "enabled": true
             }
           ]
         }
