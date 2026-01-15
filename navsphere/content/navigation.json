@@ -387,6 +387,14 @@
           "description": "",
           "icon": "/assets/favicon_1768494814281.ico",
           "enabled": true
+        },
+        {
+          "id": "1768495070968",
+          "title": "云短信",
+          "href": "https://www.storytrain.info/",
+          "description": "",
+          "icon": "/assets/favicon_1768495082384.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
