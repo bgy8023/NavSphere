@@ -139,14 +139,6 @@
               "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
               "icon": "/assets/favicon_1759046289851.webp",
               "enabled": true
-            },
-            {
-              "id": "site_1768290103461_iswba3rp7",
-              "title": "Yyai8",
-              "href": "https://yyai8.com/home",
-              "description": "",
-              "icon": "/assets/favicon_1768290087838.png",
-              "enabled": true
             }
           ]
         }
