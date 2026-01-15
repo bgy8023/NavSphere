@@ -98,16 +98,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760605598288",
-              "title": "veo-3",
-              "href": "https://aistudio.google.com/models/veo-3",
-              "description": "The fastest path from prompt to production with Gemini",
-              "icon": "/assets/favicon_1760605601454.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
