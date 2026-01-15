@@ -403,14 +403,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1760611119341",
-              "title": "TradingView",
-              "href": "https://www.tradingview.com/",
-              "description": "Where the world charts, chats, and trades markets. We&#39;re a supercharged super-charting platform and social network for traders and investors. Free to sign up.",
-              "icon": "/assets/favicon_1760611123647.webp",
-              "enabled": true
-            },
-            {
               "id": "1760611134039",
               "title": "巨潮资讯网",
               "href": "https://www.cninfo.com.cn/",
