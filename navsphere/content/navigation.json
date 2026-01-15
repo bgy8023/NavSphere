@@ -100,6 +100,14 @@
           "description": "",
           "icon": "/assets/favicon_1768491922557.png",
           "enabled": true
+        },
+        {
+          "id": "1768493085989",
+          "title": "史蒂芬周",
+          "href": "https://www.sdifen.com/",
+          "description": "",
+          "icon": "/assets/favicon_1768493091820.png",
+          "enabled": true
         }
       ],
       "subCategories": []
