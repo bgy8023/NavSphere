@@ -302,16 +302,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760611134039",
-              "title": "巨潮资讯网",
-              "href": "https://www.cninfo.com.cn/",
-              "description": "巨潮资讯网",
-              "icon": "/assets/favicon_1760611181157.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
