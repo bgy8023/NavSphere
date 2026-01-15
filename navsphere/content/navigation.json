@@ -221,14 +221,6 @@
               "href": "https://aistudio.google.com/prompts/new_chat",
               "description": "Google AI Studio",
               "icon": "/assets/favicon_1764762488719.webp"
-            },
-            {
-              "id": "site_1768290103461_iswba3rp7",
-              "title": "Yyai8",
-              "href": "https://yyai8.com/home",
-              "description": "",
-              "icon": "/assets/favicon_1768290087838.png",
-              "enabled": true
             }
           ]
         }
