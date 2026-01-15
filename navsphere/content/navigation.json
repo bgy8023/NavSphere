@@ -30,6 +30,14 @@
           "description": "访问 www.52pojie.cn",
           "icon": "/assets/favicon_1767620483352.png",
           "enabled": true
+        },
+        {
+          "id": "1768495891048",
+          "title": " Chiphell - 分享与交流用户体验",
+          "href": "https://www.chiphell.com/",
+          "description": "",
+          "icon": "/assets/favicon_1768495898427.png",
+          "enabled": true
         }
       ],
       "subCategories": []
