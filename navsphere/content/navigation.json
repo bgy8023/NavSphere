@@ -92,6 +92,14 @@
           "description": "优化破解",
           "icon": "/assets/favicon_1768287759509.png",
           "enabled": true
+        },
+        {
+          "id": "1768491916119",
+          "title": "无忧软件网",
+          "href": "https://www.wycad.com/",
+          "description": "",
+          "icon": "/assets/favicon_1768491922557.png",
+          "enabled": true
         }
       ],
       "subCategories": []
