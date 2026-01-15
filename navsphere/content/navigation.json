@@ -551,6 +551,14 @@
           "description": "",
           "icon": "/assets/favicon_1768462936567.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768464625015_xc8n0qlss",
+          "title": "Gemini和豆包去水印",
+          "href": "https://github.com/gdz-web/Gemini_Doubao_remove_watermark",
+          "description": "",
+          "icon": "/assets/favicon_1768464601192.png",
+          "enabled": true
         }
       ],
       "subCategories": []
