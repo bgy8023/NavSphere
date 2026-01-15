@@ -374,6 +374,15 @@
       ]
     },
     {
+      "id": "1768494737565",
+      "title": "工具",
+      "icon": "Heart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1768451427621",
       "title": "图书",
       "icon": "BookOpen",
@@ -471,15 +480,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1768494737565",
-      "title": "工具",
-      "icon": "Heart",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
