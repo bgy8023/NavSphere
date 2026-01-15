@@ -108,6 +108,14 @@
           "description": "",
           "icon": "/assets/favicon_1768493091820.png",
           "enabled": true
+        },
+        {
+          "id": "1768493205700",
+          "title": "分享迷 - 优质精品TV软件",
+          "href": "https://www.fenxm.com/",
+          "description": "分享迷致力于精选优质TV大屏软件",
+          "icon": "/assets/favicon_1768493210926.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
