@@ -395,6 +395,14 @@
           "description": "",
           "icon": "/assets/favicon_1768495082384.ico",
           "enabled": true
+        },
+        {
+          "id": "1768495170545",
+          "title": "证件照大师 ",
+          "href": "https://id-photo.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1768495174756.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
