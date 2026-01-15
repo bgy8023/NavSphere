@@ -284,6 +284,14 @@
               "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
               "icon": "/assets/favicon_1754295511938.webp",
               "enabled": true
+            },
+            {
+              "id": "1768492712282",
+              "title": "Namesilo",
+              "href": "https://www.namesilo.com/",
+              "description": "",
+              "icon": "/assets/favicon_1768492719059.ico",
+              "enabled": true
             }
           ]
         }
