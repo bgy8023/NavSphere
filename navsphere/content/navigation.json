@@ -123,6 +123,14 @@
               "description": "A platform to share and discover amazing AI prompts and resources.",
               "icon": "/assets/favicon_1765285552557.webp",
               "enabled": true
+            },
+            {
+              "id": "1768460062949",
+              "title": "PromptsToCheck",
+              "href": "https://promptstocheck.com/",
+              "description": "",
+              "icon": "/assets/favicon_1768460071521.svg",
+              "enabled": true
             }
           ]
         },
