@@ -61,6 +61,15 @@
       "subCategories": []
     },
     {
+      "id": "1768490175886",
+      "title": "博客",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1768287732513",
       "title": "软件",
       "icon": "Shield",
@@ -561,15 +570,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1768490175886",
-      "title": "博客",
-      "icon": "Users",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
