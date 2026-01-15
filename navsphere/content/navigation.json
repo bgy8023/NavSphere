@@ -98,16 +98,7 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.webp",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
