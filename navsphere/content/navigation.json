@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1768628566325",
+      "title": "商店",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1767610285971",
       "title": "论坛",
       "icon": "Home",
@@ -66,15 +75,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1768628566325",
-      "title": "商店",
-      "icon": "Coffee",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     },
     {
