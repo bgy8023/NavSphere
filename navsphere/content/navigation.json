@@ -69,6 +69,15 @@
       "subCategories": []
     },
     {
+      "id": "1768628566325",
+      "title": "商店",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1768490175886",
       "title": "博客",
       "icon": "Users",
@@ -521,15 +530,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1768628566325",
-      "title": "商店",
-      "icon": "Coffee",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
