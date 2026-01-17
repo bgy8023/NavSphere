@@ -522,6 +522,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1768628566325",
+      "title": "商店",
+      "icon": "Coffee",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
