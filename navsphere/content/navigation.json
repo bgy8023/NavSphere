@@ -537,6 +537,14 @@
           "description": "",
           "icon": "/assets/favicon_1768464601192.png",
           "enabled": true
+        },
+        {
+          "id": "1768628736690",
+          "title": "GeekFaka ",
+          "href": "https://github.com/bgy8023/GeekFaka",
+          "description": "",
+          "icon": "/assets/favicon_1768628741328.png",
+          "enabled": true
         }
       ],
       "subCategories": []
