@@ -12,16 +12,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1768460062949",
-              "title": "PromptsToCheck",
-              "href": "https://promptstocheck.com/",
-              "description": "",
-              "icon": "/assets/favicon_1768460071521.svg",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
