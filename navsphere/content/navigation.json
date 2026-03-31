@@ -43,14 +43,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1768628581940",
-          "title": "GeekFaka - 自动发货平台",
-          "href": "https://fk.mars1024.com/",
-          "description": "24小时自动发货，安全快捷",
-          "icon": "/assets/favicon_1768628589127.ico",
-          "enabled": true
-        },
-        {
           "id": "item-1774960728215",
           "title": "超算互联网",
           "href": "https://www.scnet.cn",
