@@ -109,14 +109,6 @@
           "description": "个人",
           "icon": "/assets/favicon_1768288412009.png",
           "enabled": true
-        },
-        {
-          "id": "site_1767650525473_d25oj5i5h",
-          "title": "4KMP - 免费在线观看4K UHD超高清电影、电视剧",
-          "href": "https://4kmp.com/",
-          "description": "免注册免下载免费在线看真正高清电影、电视剧。特别推荐使用苹果设备观看，直接支持4K HDR UHD质量的分辨率。",
-          "icon": "/assets/favicon_1767650517891.ico",
-          "enabled": true
         }
       ],
       "subCategories": []
