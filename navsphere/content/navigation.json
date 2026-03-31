@@ -322,14 +322,6 @@
               "enabled": true
             },
             {
-              "id": "1737961258110",
-              "title": "mdnice",
-              "href": "https://editor.mdnice.com/",
-              "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
-              "icon": "/assets/img_1737961266055.webp",
-              "enabled": true
-            },
-            {
               "id": "item-1756907352615",
               "enabled": true,
               "title": "MD2Card - Markdown 转知识卡片工具",
