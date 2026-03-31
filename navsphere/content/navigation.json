@@ -219,16 +219,7 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1768492712282",
-              "title": "Namesilo",
-              "href": "https://www.namesilo.com/",
-              "description": "",
-              "icon": "/assets/favicon_1768492719059.ico",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
