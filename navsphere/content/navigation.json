@@ -52,11 +52,11 @@
         },
         {
           "id": "item-1774960728215",
-          "enabled": true,
           "title": "超算互联网",
-          "href": "https://www.scnet.cn/ui/llm/",
-          "description": "访问 www.scnet.cn",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn"
+          "href": "https://www.scnet.cn",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
