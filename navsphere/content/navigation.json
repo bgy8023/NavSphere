@@ -101,16 +101,7 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1767625935156_tnz6tcp5u",
-          "title": "BzTV",
-          "href": "https://sm.mars1024.com",
-          "description": "个人",
-          "icon": "/assets/favicon_1768288412009.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
