@@ -49,6 +49,14 @@
           "description": "24小时自动发货，安全快捷",
           "icon": "/assets/favicon_1768628589127.ico",
           "enabled": true
+        },
+        {
+          "id": "item-1774960728215",
+          "enabled": true,
+          "title": "超算互联网",
+          "href": "https://www.scnet.cn/ui/llm/",
+          "description": "访问 www.scnet.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn"
         }
       ],
       "subCategories": []
