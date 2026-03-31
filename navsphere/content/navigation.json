@@ -304,16 +304,7 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1754791158725",
-              "title": "NeuraPress",
-              "href": "https://md.leti.ltd/",
-              "description": "Markdown 转微信公众号内容神器",
-              "icon": "/assets/favicon_1754791168416.svg",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "6e0eb7f0-860e-43f0-bede-6e36205483e5",
