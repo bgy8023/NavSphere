@@ -1,6 +1,58 @@
 {
   "navigationItems": [
     {
+      "id": "9",
+      "title": "AI工具包",
+      "icon": "Brain",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "8f5e0374-2ee9-4012-acac-baecb515d826",
+          "title": "提示词助手",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1765285549189",
+              "title": "Share and Discover anything to do with AI | Snack Prompt",
+              "href": "https://snackprompt.com/",
+              "description": "A platform to share and discover amazing AI prompts and resources.",
+              "icon": "/assets/favicon_1765285552557.webp",
+              "enabled": true
+            },
+            {
+              "id": "1768460062949",
+              "title": "PromptsToCheck",
+              "href": "https://promptstocheck.com/",
+              "description": "",
+              "icon": "/assets/favicon_1768460071521.svg",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
+          "title": "AI助手",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "9_3",
+              "title": "Gemini",
+              "href": "https://gemini.google.com/",
+              "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
+              "icon": "/assets/images/logos/gemini.svg",
+              "enabled": true
+            }
+          ]
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
       "id": "1768628566325",
       "title": "商店",
       "icon": "Coffee",
@@ -153,58 +205,6 @@
         }
       ],
       "subCategories": []
-    },
-    {
-      "id": "9",
-      "title": "AI工具包",
-      "icon": "Brain",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "8f5e0374-2ee9-4012-acac-baecb515d826",
-          "title": "提示词助手",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1765285549189",
-              "title": "Share and Discover anything to do with AI | Snack Prompt",
-              "href": "https://snackprompt.com/",
-              "description": "A platform to share and discover amazing AI prompts and resources.",
-              "icon": "/assets/favicon_1765285552557.webp",
-              "enabled": true
-            },
-            {
-              "id": "1768460062949",
-              "title": "PromptsToCheck",
-              "href": "https://promptstocheck.com/",
-              "description": "",
-              "icon": "/assets/favicon_1768460071521.svg",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
-          "title": "AI助手",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "9_3",
-              "title": "Gemini",
-              "href": "https://gemini.google.com/",
-              "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-              "icon": "/assets/images/logos/gemini.svg",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "",
-      "enabled": true
     },
     {
       "id": "1735265493940",
