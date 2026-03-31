@@ -7,14 +7,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "8f5e0374-2ee9-4012-acac-baecb515d826",
-          "title": "提示词助手",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
           "title": "AI助手",
           "icon": "Book",
