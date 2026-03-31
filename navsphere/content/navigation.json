@@ -118,6 +118,14 @@
           "description": "个人博客",
           "icon": "/assets/favicon_1768490252990.png",
           "enabled": true
+        },
+        {
+          "id": "item-1774975148338",
+          "enabled": true,
+          "title": "Mars Home | Notion",
+          "href": "https://www.notion.so/mars777/0336ac2f189f4a829d3541d3f8758589?v=9bd9a9c1410042ef8d409dd74b861260",
+          "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+          "icon": "/assets/favicon_1774975122013.ico"
         }
       ],
       "subCategories": []
