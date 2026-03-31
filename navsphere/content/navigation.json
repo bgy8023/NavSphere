@@ -210,6 +210,14 @@
               "description": "Your AI DevOps Engineer — Deploy anything to any cloud platform through the most familiar way: conversing with AI.",
               "icon": "/assets/favicon_1768289929345.png",
               "enabled": true
+            },
+            {
+              "id": "1774972565870",
+              "title": "Namesilo",
+              "href": "https://www.namesilo.com/",
+              "description": "",
+              "icon": "/assets/favicon_1774972570501.png",
+              "enabled": true
             }
           ]
         },
