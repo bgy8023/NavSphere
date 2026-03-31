@@ -299,14 +299,6 @@
           ]
         },
         {
-          "id": "2d33f756-959e-4171-9e0e-b616bcd274be",
-          "title": "公众号排版",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "6e0eb7f0-860e-43f0-bede-6e36205483e5",
           "title": "付费订阅平台",
           "icon": "BookOpen",
