@@ -126,6 +126,14 @@
           "href": "https://www.notion.so/mars777/0336ac2f189f4a829d3541d3f8758589?v=9bd9a9c1410042ef8d409dd74b861260",
           "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
           "icon": "/assets/favicon_1774975122013.ico"
+        },
+        {
+          "id": "item-1776012508630",
+          "enabled": true,
+          "title": "Skills Hub | Hermes Agent",
+          "href": "https://hermes-agent.nousresearch.com/docs/skills",
+          "description": "Browse all skills and plugins available for Hermes Agent",
+          "icon": "/assets/favicon_1776012455139.ico"
         }
       ],
       "subCategories": []
