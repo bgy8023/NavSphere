@@ -49,6 +49,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn",
           "enabled": true
+        },
+        {
+          "id": "item-1776409269626",
+          "enabled": true,
+          "title": "AIClient2API",
+          "href": "https://admin.mars1024.com/",
+          "description": "AIClient2API Management Console - Unified management of AI service providers",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=admin.mars1024.com"
         }
       ],
       "subCategories": []
