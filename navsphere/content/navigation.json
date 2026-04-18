@@ -352,6 +352,14 @@
           "description": "",
           "icon": "/assets/favicon_1768495342700.png",
           "enabled": true
+        },
+        {
+          "id": "item-1776514303835",
+          "enabled": true,
+          "title": "ScriptCat - 分享你的用户脚本",
+          "href": "https://scriptcat.org/zh-CN",
+          "description": "脚本猫脚本站,在这里你可以与全世界分享你的用户脚本",
+          "icon": "/assets/favicon_1776514291838.ico"
         }
       ],
       "subCategories": []
