@@ -250,6 +250,14 @@
               "description": "",
               "icon": "/assets/favicon_1774972570501.png",
               "enabled": true
+            },
+            {
+              "id": "item-1776514092521",
+              "enabled": true,
+              "title": "莱卡云-专业云计算服务器提供商",
+              "href": "https://www.lcayun.com/",
+              "description": "莱卡云(lcayun)是国内优秀的企业级云计算服务提供商，有云服务器、云主机、高防服务器、域名注册、SSL证书、高防CDN、DNS等产品,已在国内、香港、韩国、美国、日本、新加坡、欧洲等地区进行布点。",
+              "icon": "/assets/favicon_1776514083712.ico"
             }
           ]
         }
