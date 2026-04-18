@@ -28,6 +28,14 @@
               "description": "豆包 是你的 AI 聊天智能对话问答助手，写作文案翻译编程工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题",
               "icon": "/assets/favicon_1774958119103.png",
               "enabled": true
+            },
+            {
+              "id": "item-1776513984143",
+              "enabled": true,
+              "title": "DeepSeek - 探索未至之境",
+              "href": "https://chat.deepseek.com/",
+              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+              "icon": "/assets/favicon_1776513958402.png"
             }
           ]
         }
