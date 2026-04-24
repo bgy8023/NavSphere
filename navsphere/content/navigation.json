@@ -65,6 +65,14 @@
           "href": "https://admin.mars1024.com/",
           "description": "AIClient2API Management Console - Unified management of AI service providers",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=admin.mars1024.com"
+        },
+        {
+          "id": "item-1777046322081",
+          "enabled": true,
+          "title": "OpenRouter",
+          "href": "https://openrouter.ai/",
+          "description": "The unified interface for LLMs. Find the best models &amp; prices for your prompts",
+          "icon": "/assets/favicon_1777046312792.ico"
         }
       ],
       "subCategories": []
