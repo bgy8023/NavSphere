@@ -8,7 +8,7 @@ import { Sidebar } from '@/components/sidebar'
 import { SearchBar } from '@/components/search-bar'
 import { ModeToggle } from '@/components/mode-toggle'
 import { Footer } from '@/components/footer'
-import { MonitorPlay, Send } from 'lucide-react'
+import { MonitorPlay, Send, User } from 'lucide-react'
 import { Button } from "@/registry/new-york/ui/button"
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
@@ -165,6 +165,20 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
                   <MonitorPlay className="h-5 w-5" />
+                </Button>
+              </Link>
+              <Link
+                href="https://mars1024.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="我的主页"
+              >
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="hover:bg-accent hover:text-accent-foreground"
+                >
+                  <User className="h-5 w-5" />
                 </Button>
               </Link>
               <ModeToggle />
