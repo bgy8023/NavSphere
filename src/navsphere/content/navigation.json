@@ -73,6 +73,14 @@
           "href": "https://openrouter.ai/",
           "description": "The unified interface for LLMs. Find the best models &amp; prices for your prompts",
           "icon": "/assets/favicon_1777046312792.ico"
+        },
+        {
+          "id": "1789370044033",
+          "title": "日日新 - 商汤科技大模型平台 | SenseNova",
+          "href": "https://www.sensenova.cn/",
+          "description": "日日新是商汤科技推出的多模态大模型平台，提供AI文生图、代码生成、智能对话等能力。企业级安全，即开即用。",
+          "icon": "/assets/favicon_1789370050260.png",
+          "enabled": true
         }
       ],
       "subCategories": []
