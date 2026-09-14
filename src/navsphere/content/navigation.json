@@ -81,6 +81,14 @@
           "description": "日日新是商汤科技推出的多模态大模型平台，提供AI文生图、代码生成、智能对话等能力。企业级安全，即开即用。",
           "icon": "/assets/favicon_1789370050260.png",
           "enabled": true
+        },
+        {
+          "id": "1789371245373",
+          "title": "Agnes AI | Free Omni-Modal AI API, World-Class AI Models &amp; AI Applications",
+          "href": "https://agnes-ai.com/",
+          "description": "",
+          "icon": "/assets/favicon_1789371247516.png",
+          "enabled": true
         }
       ],
       "subCategories": []
