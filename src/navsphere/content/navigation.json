@@ -68,11 +68,11 @@
         },
         {
           "id": "item-1777046322081",
-          "enabled": true,
           "title": "OpenRouter",
           "href": "https://openrouter.ai/",
-          "description": "The unified interface for LLMs. Find the best models &amp; prices for your prompts",
-          "icon": "/assets/favicon_1777046312792.ico"
+          "description": "",
+          "icon": "/assets/favicon_1777046312792.ico",
+          "enabled": true
         },
         {
           "id": "1789370044033",
