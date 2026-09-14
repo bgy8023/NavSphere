@@ -97,6 +97,14 @@
           "description": "",
           "icon": "/assets/favicon_1789372672209.png",
           "enabled": true
+        },
+        {
+          "id": "1789372729015",
+          "title": "智谱",
+          "href": "https://bigmodel.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1789372732442.png",
+          "enabled": true
         }
       ],
       "subCategories": []
