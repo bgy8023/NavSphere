@@ -113,6 +113,14 @@
           "description": "",
           "icon": "/assets/favicon_1789372798247.ico",
           "enabled": true
+        },
+        {
+          "id": "1789373734432",
+          "title": "InferX",
+          "href": "https://model.inferx.net",
+          "description": "",
+          "icon": "/assets/favicon_1789373744092.png",
+          "enabled": true
         }
       ],
       "subCategories": []
