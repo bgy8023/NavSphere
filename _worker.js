@@ -7,7 +7,8 @@ export default {
     process.env.GITHUB_REPO = env.GITHUB_REPO
     process.env.GITHUB_BRANCH = env.GITHUB_BRANCH
     process.env.NEXTAUTH_URL = env.NEXTAUTH_URL
-    process.env.NEXTAUTH_SECRET = env.GITHUB_CLIENT_SECRET
+    process.env.AUTH_SECRET = env.AUTH_SECRET || env.GITHUB_CLIENT_SECRET
+    process.env.NEXTAUTH_SECRET = env.AUTH_SECRET || env.GITHUB_CLIENT_SECRET
 
     if (request.url.includes('/api/auth')) {
       return env.ASSETS.fetch(request)
