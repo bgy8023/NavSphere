@@ -89,6 +89,14 @@
           "description": "",
           "icon": "/assets/favicon_1789371247516.png",
           "enabled": true
+        },
+        {
+          "id": "1789372667766",
+          "title": "硅基流动 SiliconFlow",
+          "href": "https://siliconflow.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1789372672209.png",
+          "enabled": true
         }
       ],
       "subCategories": []
