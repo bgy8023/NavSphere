@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_CLIENT_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere">
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbgy8023%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_CLIENT_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere">
     <img src="https://vercel.com/button" alt="Deploy with Vercel"/>
   </a>
 </p>
@@ -88,7 +88,7 @@ NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专�
 
 ### 一键部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_CLIENT_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbgy8023%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_CLIENT_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere)
 
 点击上方按钮即可一键部署到 Vercel，部署完成后需要配置环境变量。
 
@@ -102,7 +102,7 @@ NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专�
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/tianyaxiang/NavSphere.git
+git clone https://github.com/bgy8023/NavSphere.git
 cd NavSphere
 ```
 
@@ -193,7 +193,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3000
 
 1. **点击部署按钮**
    
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_CLIENT_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbgy8023%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_CLIENT_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere)
 
 2. **配置环境变量**
    
@@ -277,7 +277,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3000
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/tianyaxiang/NavSphere.git
+git clone https://github.com/bgy8023/NavSphere.git
 cd NavSphere
 ```
 
