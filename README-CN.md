@@ -19,7 +19,7 @@ NavSphere is a web application designed for managing navigation items and catego
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tianyaxiang/NavSphere.git
+   git clone https://github.com/bgy8023/NavSphere.git
 
 ```bash
 npm run dev
