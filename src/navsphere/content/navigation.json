@@ -105,6 +105,14 @@
           "description": "",
           "icon": "/assets/favicon_1789372732442.png",
           "enabled": true
+        },
+        {
+          "id": "1789372792889",
+          "title": "Try NVIDIA NIM APIs",
+          "href": "https://build.nvidia.com/",
+          "description": "",
+          "icon": "/assets/favicon_1789372798247.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
